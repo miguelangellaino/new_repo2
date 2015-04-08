@@ -1,0 +1,483 @@
+"1 Argyle St",1
+"1054 Gladys St",1
+"11 Denison St #7",1
+"11 Tetlow St",1
+"114 Falkland St #8845",1
+"1149 Highfield Rd #996",1
+"12 Gelling St",1
+"13 Nelson Rd",1
+"1346 Vandyke St",1
+"143 Clark St #802",1
+"1432 Rutland Ave",1
+"148 Rembrandt St",1
+"15 East Albert Rd",1
+"1730 Seymour St",1
+"18 Nimrod St",1
+"180 Frodsham St",1
+"19 Soho St",1
+"2 Whitefield Rd",1
+"2200 Nelson St #58",1
+"256 Vesuvius St #159",1
+"2732 Bostock St #1",1
+"274 Altcar Ave",1
+"28 Berwick St",1
+"3 August Rd",1
+"3 Burnall St",1
+"3 Ivyleigh",1
+"3186 Naylor St",1
+"328 Pallas St",1
+"3380 Alexander St",1
+"35 Walton Lane",1
+"3612 Bixteth St",1
+"363 Vandries St",1
+"37 Langham St #948",1
+"371 Oakleigh",1
+"3768 Hey Green Rd",1
+"3833 Sidney Rd",1
+"39 Hooton Place",1
+"4 Burnall St",1
+"4 Mather St",1
+"4 Sherwood St",1
+"40 Cairo St",1
+"41 Benedict St",1
+"4313 Princes Park Terrace",1
+"4565 Blackstock St",1
+"4679 Curzon St",1
+"4706 Chapel Place #5993",1
+"476 Starkie St",1
+"484 Barry St",1
+"5 Chadwick St #7",1
+"5 Howe St",1
+"5 Hygeia St",1
+"5 Webb St #8",1
+"505 Exeter Rd",1
+"513 Bailey St",1
+"5147 Blackstone St",1
+"526 Liffey St #759",1
+"5344 Bengel St #5",1
+"5410 Lawton St",1
+"553 Picton Rd",1
+"59 Charles St",1
+"59 Westminster Rd",1
+"592 Catharine St",1
+"6 Cannock St",1
+"623 Cornhill",1
+"6305 Elstow St",1
+"64 Croyland St",1
+"645 Lister Drive",1
+"65 Rankin St",1
+"658 Lake St",1
+"661 Great Crosshall St",1
+"675 Falstaff St #170",1
+"6996 Wrenbury St",1
+"7 Carolina St",1
+"7 Hey Green Rd #4",1
+"7 Jolliffe St",1
+"7 St Edmonds Rd",1
+"7 Varthen St",1
+"70 Foster St",1
+"7033 Micawber St",1
+"726 Westmoreland Place",1
+"758 Woodhouse St",1
+"76 Dawber St #6",1
+"76 Paulton St",1
+"763 Roscoe St",1
+"7643 Campbell St",1
+"7866 Renshaw St #283",1
+"794 Hook St",1
+"8 Breckfield Road North",1
+"8 Chestnut St",1
+"8 Heathfield St #657",1
+"8 Jacob St",1
+"8 Moor Place",1
+"8 Nova Scotia",1
+"821 Pembroke Place",1
+"8289 Cadogan St",1
+"8361 Cottenham St",1
+"8388 Bessemer St #5",1
+"845 Atherton St",1
+"85 Hero St",1
+"8657 Cedar St #2",1
+"869 Luke St",1
+"87 Eldon Place",1
+"87 Pownall Sq",1
+"8830 Antonio St",1
+"8921 Forge St",1
+"8977 Old Leeds St #87",1
+"9 Cropper St",1
+"9 Cypress St",1
+"9 Duckenfield St",1
+"9 Fielding St",1
+"9 Mather St",1
+"907 Denman St",1
+"91 Ludlow St",1
+"92 Phythian St #614",1
+"9205 Upper Hill St",1
+"9283 Ruth St #81",1
+"9302 Ismay St #6",1
+"9362 Solomon St #97",1
+"9472 Lind St",1
+"9548 Ogwen St #84",1
+"9730 Dunnet St",1
+"9874 Oakfield Rd",1
+"99 Guthrie St",1
+"9923 Dinorben St #4838",1
+"Abbey Road Ward",1
+"Abbey Ward",1
+"Abingdon on Thames",1
+"Acton Central Ward",1
+"Acton Trussell and Bednall",1
+"Addlestone Bourneside Ward",1
+"Aldridge Central and South War",1
+"Almond Ward",1
+"Alphington Ward",1
+"Amersham",1
+"Appleton Wiske",1
+"Ashford Common Ward",1
+"Aspley Ward",1
+"Astley Bridge Ward",2
+"Audley Ward",1
+"Aveton Gifford",1
+"Aylesbury",1
+"Banchory and Mid Deeside Ward",1
+"Bangor Community",1
+"Bargate Ward",1
+"Barlow",1
+"Barnfield Ward",1
+"Barnham",1
+"Batchwood Ward",1
+"Bellingham",1
+"Belvedere Ward",1
+"Berkhamsted",1
+"Billesley Ward",1
+"Birchington",1
+"Bishop Auckland",1
+"Blyth",2
+"Bowes",1
+"Brixham",1
+"Brockley Ward",1
+"Brooklands Ward",1
+"Broomhill Ward",1
+"Broxburn,1
+"Brympton",1
+"Bulwell Ward",1
+"Bunhill Ward",1
+"Burmantofts and Richmond Hill ",1
+"Butterwick",1
+"Byker Ward",1
+"Callington",1
+"Calstock",1
+"Calton Ward",1
+"Canning Town North Ward",1
+"Carbrooke",1
+"Castleford Central and Glassho",1
+"Caversham Ward",1
+"Central Buchan Ward",2
+"Central Ward",2
+"Chadderton Central Ward",1
+"Chester-le-Street North and Ea",1
+"Chichester",2
+"Chirton Ward",1
+"Chorlton Park Ward",1
+"Church Langley Ward",1
+"Churchdown",1
+"Churchill Ward",1
+"Cilybebyll Community",1
+"Cirencester",1
+"City and Hunslet Ward",2
+"Clayton-le-Moors Ward",1
+"Cleator Moor",1
+"Coatbridge South Ward",1
+"Cobham and Downside Ward",1
+"Cockerton West Ward",1
+"Coleshill",1
+"Conisbrough and Denaby Ward",1
+"Consett North ED",1
+"Corporation Park Ward",1
+"Cotham Ward",1
+"Crawcrook and Greenside Ward",1
+"Cressington Ward",1
+"Crompton Ward",1
+"Crystal Palace Ward",1
+"Custom House Ward",1
+"Cyfarthfa Community",1
+"Darnall Ward",1
+"Darton West Ward",2
+"Deal",1
+"Dee Ward",1
+"Deepdale Ward",2
+"Devizes",1
+"Dingwall and Seaforth Ward",1
+"Dunbar and East Linton Ward",1
+"Dunblane and Bridge of Allan W",1
+"Earlestown Ward",1
+"East Finchley Ward",1
+"East Kilbride West Ward",1
+"East Sheen Ward",1
+"Eaton Park Ward",1
+"Eccleshall",1
+"Eccleston Ward",1
+"Edgeley and Cheadle Heath Ward",1
+"Edmonton Green Ward",1
+"Elgin City South Ward",1
+"Everton Ward",2
+"Farnham",1
+"Farnworth Ward",1
+"Fawley",1
+"Finedon",1
+"Fowlmere",1
+"Franche Ward",2
+"Frimley Green Ward",1
+"Gaer Community",1
+"George St",1
+"Girvan and South Carrick Ward",1
+"Glastonbury",1
+"Goldsmid Ward",1
+"Govan Ward",1
+"Grangemouth Ward",1
+"Great Barr with Yew Tree Ward",1
+"Great Dunmow",1
+"Greenlands Ward",1
+"Greets Green and Lyng Ward",1
+"Gresham Ward",1
+"Gwersyllt Community",1
+"Halliwell Ward",1
+"Halstead",1
+"Hamilton South Ward",1
+"Harefield Ward",1
+"Harrow Weald Ward",1
+"Hartburn Ward",1
+"Hatton",1
+"Haverstock Ward",1
+"Headley",1
+"Heanor and Loscoe",1
+"Heath Town Ward",1
+"Heaton Ward",1
+"Henllan Community",1
+"Hereford",1
+"Hetton",1
+"Hexham",1
+"Hickling",1
+"High Barnet Ward",1
+"Hilton",1
+"Hodge Hill Ward",1
+"Holbrook",1
+"Hollington Ward",1
+"Holyrood Ward",1
+"Holywell Community",1
+"Horfield Ward",1
+"Howard Town Ward",1
+"Howe of Fife and Tay Coast War",1
+"Hylands Ward",1
+"Inverclyde South Ward",1
+"Ipplepen",1
+"Irvine East Ward",1
+"Ise Lodge Ward",1
+"Iwade",1
+"Kempshott Ward",1
+"Kensington and Fairfield Ward",1
+"Kilbirnie and Beith Ward",1
+"Kilmersdon",1
+"Kilpatrick Ward",1
+"Kincorth",1
+"Kings Hill",1
+"Kings Norton Ward",1
+"Kingswells",1
+"Kirk Hammerton",1
+"Kirkintilloch East and Twechar",1
+"Knightsbridge and Belgravia Wa",2
+"Laindon Park Ward",1
+"Lamport",1
+"Lancing",1
+"Lansdown Ward",1
+"Launcells",1
+"Lavenham",1
+"Layton Ward",1
+"Leatherhead South Ward",1
+"Leek",1
+"Leighton-Linslade",1
+"Linlithgow Ward",1
+"Liscard Ward",1
+"Little Clacton",1
+"Little Hereford",1
+"Little Missenden",1
+"Little Ness",1
+"Little Parndon and Hare Street",1
+"Littleborough Lakeside Ward",1
+"Llanelli Rural Community",1
+"Llangristiolus Community",1
+"Llantrisant Community",1
+"Llwyn-y-Pia Community",1
+"Londesborough",1
+"Long Preston",1
+"Longhill Ward",1
+"Loughborough Hastings Ward",1
+"Lye and Stourbridge North Ward",1
+"Lymington and Pennington",1
+"Madeley",1
+"Market Rasen",1
+"Markhouse Ward",1
+"Marldon",1
+"Meads Ward",2
+"Melton Dorian Ward",1
+"Mid and Upper Nithsdale Ward",1
+"Midlothian West Ward",1
+"Midway Ward",1
+"Mildmay Ward",1
+"Milton Regis Ward",1
+"Milton",1
+"Moreton Morrell",1
+"Mortehoe",1
+"Mossend and Holytown Ward",1
+"Mossley",1
+"Moulsecoomb and Bevendean Ward",1
+"Much Wenlock",1
+"Murdostoun Ward",1
+"Newbold and Brownsover Ward",1
+"Newington Ward",1
+"Newmarket",1
+"Newquay",1
+"Newton-with-Clifton",1
+"Nith Ward",1
+"North East Ward",1
+"North Heywood Ward",1
+"North Horsham",1
+"North Tawton",1
+"Northfleet South Ward",1
+"Northgate Ward",1
+"Northwood Ward",1
+"Norton Canes",1
+"Oakridge and Castlefield Ward",1
+"Old Newton with Dagworth",1
+"Orsett Ward",1
+"Over Kellet",1
+"Overton Ward",1
+"Park Ward",1
+"Parkham",1
+"Parr Ward",1
+"Parwich",1
+"Patching Hall Ward",1
+"Penmaenmawr Community",1
+"Penryn",1
+"Peterlee",1
+"Pinhoe Ward",1
+"Plymstock Dunstone Ward",1
+"Pontefract North Ward",1
+"Ponteland",1
+"Portobello",1
+"Prestatyn Community",1
+"Prestbury",1
+"Priory Heath Ward",1
+"Prittlewell Ward",1
+"Radcliffe West Ward",1
+"Rainham South Ward",1
+"Ravenshead",1
+"Ravensthorpe Ward",1
+"Redlands Ward",1
+"Renfrew South & Gallowhill War",1
+"Reydon",1
+"Rhoose Community",1
+"Rhos-on-Sea Community",1
+"Rock",1
+"Roundway",1
+"Rowley Ward",1
+"Royal Hospital Ward",1
+"Ruckinge",1
+"Ruddington",1
+"Ryde",1
+"Saffron Walden",1
+"Saint Annes on the Sea",1
+"Salvington Ward",1
+"Seaham",1
+"Sefton",1
+"Selston",1
+"Seven Sisters Ward",1
+"Shard End Ward",2
+"Sharston Ward",1
+"Shenley",1
+"Shepway South Ward",1
+"Sheviock",1
+"Shiphay-with-the-Willows Ward",1
+"Shipston on Stour",1
+"Shirley Ward",1
+"Shorne",1
+"Shrewsbury",1
+"Shrub End Ward",1
+"Smallbridge and Firgrove Ward",1
+"South Jesmond Ward",1
+"Southam",1
+"Southey Ward",1
+"Springfield Ward",2
+"St. Andrews Ward",1
+"St. Austell",1
+"St. Gluvias",1
+"St. Helier Ward",1
+"St. Ive",1
+"St. Johns Ward",1
+"St. Margarets with St. Nichola",1
+"St. Marys Ward",1
+"St. Michaels and Wicksteed War",1
+"St. Peters Ward",1
+"St. Stephens Ward",1
+"Staina Ward",1
+"Stainburn",1
+"Stannington Ward",1
+"Staple Hill Ward",1
+"Steornabhagh a Deas Ward",1
+"Stokenham",1
+"Stoneygate Ward",1
+"Stowting",1
+"Stratfield Mortimer",1
+"Stretford Ward",1
+"Strood South Ward",1
+"Stroud",1
+"Sunningdale",1
+"Sutton Trinity Ward",1
+"Sutton cum Duckmanton",1
+"Tadworth and Walton Ward",1
+"Tanworth-in-Arden",1
+"Temple Newsam Ward",2
+"Thorpe Hamlet Ward",1
+"Tibberton",1
+"Tiffield",1
+"Tonge with the Haulgh Ward",1
+"Town Ward",1
+"Trelawnyd and Gwaenysgor Commu",1
+"Trossachs and Teith Ward",1
+"Trotton with Chithurst",1
+"Trowbridge",1
+"Twickenham Riverside Ward",1
+"Tynemouth Ward",1
+"Upper Rawcliffe-with-Tarnacre",1
+"Victoria Ward",1
+"Wakefield East Ward",1
+"Wakefield North Ward",1
+"Walcot Ward",1
+"Walkergate Ward",1
+"Walton Ward",1
+"Wareham St. Martin",1
+"Warham",1
+"Werrington South Ward",1
+"Werrington",1
+"West Bromwich Central Ward",1
+"West End Ward",2
+"West Garioch Ward",1
+"West Wickham Ward",1
+"Westbury",1
+"Weston-Super-Mare",1
+"Wheatley Ward",2
+"Whitchurch Urban",1
+"Whittington",1
+"Wilmington",1
+"Wilsden",1
+"Wimbledon Park Ward",1
+"Windle Ward",1
+"Windlesham",1
+"Wollaton West Ward",1
+"Wombourne",1
+"Woodhall Farm Ward",1
+"Woodham Ward",1
+"Woodhouse Ward",1
+"Woodstock Ward",1
+"Yalding",1
+"Yealmpton",1
